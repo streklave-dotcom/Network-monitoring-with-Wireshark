@@ -30,7 +30,8 @@ This project is useful for students, IT professionals, and beginners learning ab
 * Cybersecurity networking videos
 * Practice labs for network monitoring
 
----
+---<img width="850" height="450" alt="DfiSzGFRJu5RMaabgZLswrmwgRSAQRBCUNIVfLN2FSn3V4fBmFn45a2NhtjAWa6sngnlXdu9x1c8VFypVwoREz-ZnMaljynVVUzGKeIcfDkGypYrTW21m3edJgvGV15Bu7nIED7hdlMFHmBZTE6XSlxsanwfgEIpmvohgLGWr2Y" src="https://github.com/user-attachments/assets/c7bc50e7-4597-4dcd-95b5-216a1c2c2c6c" />
+
 
 # Step-by-Step Installation and Configuration
 
