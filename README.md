@@ -92,6 +92,7 @@ Allow non-root users to capture packets if asked during installation.
 1. Start the capture.
 2. Open websites or applications to generate traffic.
 3. Observe packets appearing in real time.
+<img width="1172" height="860" alt="12WG6zgjL4gMMsb42mOtqi-9SU5UyZlOdOlH3GZuWMv0MjJcnaUdTkTiTQ9KM8vL2jY1Lxo50YU2ouEKw44cRAtDfkEMy6MSP8fW86p7_8cXtYE9Wj56887say36GKXK9w9rKOYIbjTg7Pe3z6r7ehwE9yF48TXq8f3NYhyjPyY" src="https://github.com/user-attachments/assets/6fb4472f-c812-4390-bbdd-f4a78cc683e3" />
 
 Examples of traffic:
 
